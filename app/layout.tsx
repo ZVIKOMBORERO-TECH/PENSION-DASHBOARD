@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: "MY PENSION PORTAL",
   description: "MY PENSION PORTAL is a modern platform for Zimbabwean pensioners.",
   icons: {
-    icon: '/icons/logo.svg'
+    icon: '/icons/logo.png'
   }
 };
 

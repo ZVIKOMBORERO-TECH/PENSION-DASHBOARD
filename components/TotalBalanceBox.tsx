@@ -12,11 +12,11 @@ const TotalBalanceBox = ({
 
       <div className="flex flex-col gap-6">
         <h2 className="header-2">
-          Bank Accounts: {totalBanks}
+          Pension Schemes: {totalBanks}
         </h2>
         <div className="flex flex-col gap-2">
           <p className="total-balance-label">
-            Total Current Balance
+            Total Pension Balance
           </p>
 
           <div className="total-balance-amount flex-center gap-2">
